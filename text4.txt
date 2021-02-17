@@ -1,1 +1,1 @@
-text 4 is only on the master branch
+text 4 is only on the master branch, não estava só na master pq eu equeci de colocar no git, agora eu adicionei, e essas mudanças estão apenas na segunda branch
